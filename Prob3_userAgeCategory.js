@@ -1,4 +1,4 @@
-// Collect user age
+// Ulat, Van Remlee
 let age = Number(prompt("Enter your age:"));
 
 // Ulat, Van Remlee
